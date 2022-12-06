@@ -8,7 +8,11 @@ I'm Kyle (he/him), a 10 year veteran of software and data engineering. I'm well 
 
 I recently [fixed](https://github.com/dbt-labs/homebrew-dbt/pull/161) dbt installations on Mac.
 
-I built a data warehouse for my previous company with FiveTran (complement by bespoke Python when FiveTran just wasn't enough), dbt, and BigQuery (along with a constellation of other GCP utilities to help orchstrate everything). 
+I built a data warehouse for my previous company with:
+- FiveTran (complemented by bespoke Python when FiveTran just wasn't enough)
+- dbt
+- [BigQuery](https://cloud.google.com/bigquery)
+- And a constellation of GCP utilities to help orchstrate everything ([Scheduler](https://cloud.google.com/scheduler), [Compute Engine](https://cloud.google.com/compute), [Secret Manager](https://cloud.google.com/secret-manager)) 
 
 **How did it go?**
 
@@ -22,3 +26,7 @@ I don't have much of a public record of software engineering work, so I like to 
 
 In 2022, I chose Python for the [event](https://github.com/kyleries/aoc_2022).
 In [2021](https://github.com/kyleries/aoc_2021/tree/main/models) and [2020](https://github.com/kyleries/aoc_2020/tree/main/models), I chose....SQL! I wanted to challenge myself to think about the problems from more of a relational point of view and see how far I could get without resorting to a full programming language. 
+
+## Analysis
+
+I've also worked in the pure analyst capacity (and, anecdotally, I can't fully express how empmowering it is to be able to handle all of the engineering required to build a data product and then immediately begin using it to solve a business problem or illuminate opportunities). I've diagnosed structural problems in business lines by formulating business equations and predicted the presence of certain appliances using metered energy consumption using machine learning on an "Enterprise" scale.
