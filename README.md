@@ -30,3 +30,8 @@ In [2021](https://github.com/kyleries/aoc_2021/tree/main/models) and [2020](http
 ## Analysis
 
 I've also worked in the pure analyst capacity (and, anecdotally, I can't fully express how empmowering it is to be able to handle all of the engineering required to build a data product and then immediately begin using it to solve a business problem or illuminate opportunities). I've diagnosed structural problems in business lines by formulating business equations and predicted the presence of certain appliances using metered energy consumption using machine learning on an "Enterprise" scale.
+
+## Leadership/Mentoring
+
+I've mentored and led both software and data engineering teams. "Measuring" results is my instinct, and the best measure I've found is to keep tabs on those I've mentored/led. In short, they get hired/promoted to the roles they aspire to. I've advised/supported a Product Manager on a journey to the C-Suite. I've supported the development of an entry level Ruby on Rails engineer into a technical lead/owner of a major SaaS company. I've mentored a non-analyst into a Lead Analyst through active coaching and training. 
+
