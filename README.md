@@ -29,7 +29,7 @@ In [2021](https://github.com/kyleries/aoc_2021/tree/main/models) and [2020](http
 
 ## Analysis
 
-I've also worked in the pure analyst capacity (and, anecdotally, I can't fully express how empmowering it is to be able to handle all of the engineering required to build a data product and then immediately begin using it to solve a business problem or illuminate opportunities). I've diagnosed structural problems in business lines by formulating business equations and predicted the presence of certain appliances using metered energy consumption using machine learning on an "Enterprise" scale.
+I've also worked in the pure analyst capacity (and, anecdotally, I can't fully express how empowering it is to be able to handle all of the engineering required to build a data product and then immediately begin using it to solve a business problem or illuminate an opportunity). I've diagnosed structural problems in business lines by formulating business equations and predicted the presence of certain appliances using metered energy consumption using machine learning on an "Enterprise" scale.
 
 ## Leadership/Mentoring
 
